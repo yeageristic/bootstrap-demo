@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.carousel-item {
+    /* position: relative; */
+    height: 35rem;
+    width: 100%;
+  }
+  .abc{
+    width: 100%;
+  }
